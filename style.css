@@ -1,0 +1,21 @@
+.title {
+    text-transform: uppercase;
+    font-family: sans-serif, arial, helvetica;
+}
+
+.cherry-title {
+    color: #eb345e; 
+}
+
+.tiramisu-title {
+    color: #3d2116;
+}
+
+.crepes-title {
+    color: #db9d70;
+}
+
+.img {
+    width: 500px;
+    height: auto;
+}
