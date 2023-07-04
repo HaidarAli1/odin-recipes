@@ -26,10 +26,17 @@
 
 .ing-list {
     font-family: 'Times New Roman', Times, serif;
-    background-color: #bdb2aa;
+    background-color: #f0eeed;
     font-size: 12;
+    line-height: 1.5;
 }
 
 .headers h4 { 
-    color: red;
+    font-size: larger;
+}
+
+.recipe-list {
+    line-height: 1;
+    background-color: none;
+    font-style: italic;
 }
