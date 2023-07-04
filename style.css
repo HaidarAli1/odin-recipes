@@ -1,3 +1,7 @@
+* {
+    font-family: sans-serif, Arial, helvetica;
+}
+
 .title {
     text-transform: uppercase;
     font-family: sans-serif, arial, helvetica;
@@ -18,4 +22,14 @@
 .img {
     width: 500px;
     height: auto;
+}
+
+.ing-list {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #bdb2aa;
+    font-size: 12;
+}
+
+.headers h4 { 
+    color: red;
 }
